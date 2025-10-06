@@ -3,8 +3,7 @@
 ## Автоматизация тестирования на python
 
 ### Шаги
-1. Склонировать проект 'git clone https://github.com/имя_пользователя/
-   pytest_ui_api_template.git'
+1. Склонировать проект 'git clone https://github.com/Jul3872/Diplom_ui_api_tests.git'
 2. Установить зависимости
 3. Запустить тесты 'pytest':
 - pytest - все тесты
