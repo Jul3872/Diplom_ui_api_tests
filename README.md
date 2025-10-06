@@ -1,4 +1,4 @@
-# Diplom_ui_api_tests
+# Diplom_ui_api_tests Galochkina Yuliya
 
 ## Автоматизация тестирования на python
 
